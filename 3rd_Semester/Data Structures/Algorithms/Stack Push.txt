@@ -1,0 +1,27 @@
+Algorithm (Push)
+
+Insert the element in array using stack.
+Let d be the name of the array and maxsize = S.
+
+Steps:
+
+1. Set Top = 1
+
+
+2. Repeat while Top < maxsize
+
+
+3.     Read Item
+
+
+4.     Set d[Top] = Item
+
+
+5.     Set Top = Top + 1
+
+
+6. [End of step 2 loop]
+
+
+7. Write "Stack Overflow" and exit.
+

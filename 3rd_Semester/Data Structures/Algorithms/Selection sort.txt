@@ -1,0 +1,35 @@
+Selection Sort Algorithm:
+
+Step 1: Start
+
+Step 2: Set i = 0
+
+Step 3: Repeat while i < N-1
+
+Step 4: Set minIndex = i
+
+Step 5: Set j = i + 1
+
+Step 6: Repeat while j < N
+
+Step 7: If arr[j] < arr[minIndex] then
+
+Step 8: Set minIndex = j
+
+[End of if]
+
+Step 9: Set j = j + 1
+
+[End of inner loop]
+
+Step 10: Set temp = arr[minIndex]
+
+Step 11: Set arr[minIndex] = arr[i]
+
+Step 12: Set arr[i] = temp
+
+Step 13: Set i = i + 1
+
+[End of outer loop]
+
+Step 14: Stop

@@ -1,0 +1,28 @@
+Insertion Sort Algorithm:
+
+Step 1: Start
+
+Step 2: Set k = 1
+
+Step 3: Repeat while k < N
+
+Step 4: Set item = d[k]
+
+Step 5: Set j = k - 1
+
+Step 6: Repeat while j ≥ 0 and d[j] > item
+
+Step 7: Set d[j + 1] = d[j]
+
+Step 8: Set j = j - 1
+
+[End of inner while loop]
+
+Step 9: Set d[j + 1] = item
+
+Step 10: Set k = k + 1
+
+[End of outer while loop]
+
+Step 11: Stop
+

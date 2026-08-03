@@ -1,0 +1,23 @@
+Algorithm (Pop/Delete)
+
+Delete (Pop) the element from array using stack.
+Let d be the name of the array.
+
+Steps:
+
+1. Set Top = S
+
+
+2. Repeat while Top > 0
+
+
+3.     Set Item = d[Top]
+
+
+4.     Set Top = Top - 1
+
+
+5. [End of step 2 loop]
+
+
+6. Write "The stack is empty" and exit.

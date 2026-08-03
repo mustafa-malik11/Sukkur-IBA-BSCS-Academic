@@ -1,0 +1,32 @@
+Bubble Sort Algorithm:
+
+Step 1: Start
+
+Step 2: Set i = 0
+
+Step 3: Repeat while i < N-1
+
+Step 4: Set j = 0
+
+Step 5: Repeat while j < N-i-1
+
+Step 6: If arr[j] > arr[j+1] then
+
+Step 7: Set temp = arr[j]
+
+Step 8: Set arr[j] = arr[j+1]
+
+Step 9: Set arr[j+1] = temp
+
+[End of if]
+
+Step 10: Set j = j + 1
+
+[End of inner loop]
+
+Step 11: Set i = i + 1
+
+[End of outer loop]
+
+Step 12: Stop
+
