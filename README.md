@@ -1,77 +1,143 @@
-# Sukkur-IBA-BSCS-Academic
+# Sukkur-IBA-BSCS-Academic 🎓
 
-Welcome to the **Sukkur-IBA-BSCS-Academic** repository! 👋
-
-This repository is not just a code collection, but a platform for helping one another. If you are from the BSCS program at Sukkur IBA University and stuck on any task, assignment, or subject, this place is for you. Here, you will find semester-wise academic coursework, lab tasks, and programming resources to make our journey easier.
-
----
-
-## 📚 Table of Contents
-
-* [About This Repository](https://www.google.com/search?q=%23about-this-repository)
-* [Folder Structure](https://www.google.com/search?q=%23folder-structure)
-* [Technologies & Tools](https://www.google.com/search?q=%23technologies--tools)
-* [Contributing](https://www.google.com/search?q=%23contributing)
-* [License](https://www.google.com/search?q=%23license)
-
----
+A collection of academic resources for BSCS students at **Sukkur IBA University**. This repository contains semester-wise subjects, programming assignments, lab tasks, study materials, and course schemes.
 
 ## 📌 About This Repository
 
-The core purpose of this repository is to serve as my primary academic lifeline and a powerful resource pool. Every folder, assignment, and lab task is structured meticulously to ensure I never lose track of my coursework, making it exceptionally valuable for staying ahead in every semester and resolving programming challenges quickly..
+The purpose of this repository is to organize and share academic materials throughout the BSCS journey.
 
----
+It helps students access coursework, programming resources, and subject-related materials in one place.
+
+## 📚 Repository Contents
+
+### 1st Semester
+
+- Additional Math-I
+- Discrete Structures
+- Ethics
+- Functional English
+- ICT (Application of Information and Communication Technologies)
+- Islamic Studies
+- Pakistan Studies
+- Programming Fundamentals (C++)
+
+### 2nd Semester
+
+- Additional Math-II
+- Applied Physics
+- Calculus
+- Comparative Religion - I
+- Database Systems
+- Expository Writing
+- Fehm-e-Quran I / Notes
+- OOP (Object Oriented Programming)
+
+### 3rd Semester
+
+- Computer Networks
+- Data Structures
+- Digital Logic Design (DLD)
+- Ideology and Constitution of Pakistan
+- Multivariate Calculus
+- Software Engineering
+
+### Course Schemes
+
+Available curriculum documents:
+
+- BS CS Fall 2024 Schema onwards
+- BS CS Fall 2025 Schema
 
 ## 🗂️ Folder Structure
 
-Here is how the repository is organized semester-wise:
-
 ```text
-Sukkur-IBA-CS/
+Sukkur-IBA-BSCS-Academic/
+│
 ├── 1st_Semester/
 │   ├── Additional Math-I/
 │   ├── Discrete Structures/
 │   ├── Ethics/
 │   ├── Functional English/
-│   ├── ICT (Application of Information and Communication Technologies)/
+│   ├── ICT/
 │   ├── Islamic Studies/
 │   ├── Pakistan Studies/
 │   └── Programming Fundamentals (C++)/
-│       ├── Assignments/
-│       └── Lab-Tasks/
+│
 ├── 2nd_Semester/
-└── ...
-
+│   ├── Additional Math-II/
+│   ├── Applied Physics/
+│   ├── Calculus/
+│   ├── Comparative Religion - I/
+│   ├── Database Systems/
+│   ├── Expository Writing/
+│   ├── Fehm-e-Quran I/
+│   └── OOP/
+│
+├── 3rd_Semester/
+│   ├── Computer Networks/
+│   ├── Data Structures/
+│   ├── Digital Logic Design/
+│   ├── Ideology and Constitution of Pakistan/
+│   ├── Multivariate Calculus/
+│   └── Software Engineering/
+│
+├── Course_Schema/
+│   ├── BS CS Fall 2024 Schema_onwards.pdf
+│   └── BS CS Fall 2025 Schema.pdf
+│
+└── README.md
 ```
 
----
+## 🛠️ Technologies & Tools
 
-## 💻 Technologies & Tools
+**Programming Languages**
+- C++
+- Java
+- Python
+- SQL
 
-Throughout the semesters, we deal with various tools and languages:
+**Development Tools**
+- Visual Studio Code
+- Dev-C++
+- Git
+- GitHub
 
-* **Languages:** C++, Python, Java, SQL
-* **Tools:** Git, GitHub, Dev-C++, VS Code
+## 🎯 Repository Goals
 
----
+- Organize academic materials semester-wise.
+- Maintain programming assignments and lab tasks.
+- Share useful study resources with fellow students.
+- Keep course schemes and curriculum documents accessible.
+- Support collaborative learning.
 
-## 🤝 Contributing (Let's Grow Together!)
+## 🤝 Contributing
 
-Both humanity and coding are better when shared! If you have better solutions, notes, or updates, please feel free to contribute:
+Contributions are welcome!
 
-1. **Fork the repository** (Click the "Fork" button at the top-right corner).
-2. **Clone your fork** to your local machine using `git clone <your-fork-url>`.
-3. Create a **new branch** (`git checkout -b feature-branch`).
-4. Make your changes and **commit** (`git commit -m "Added helpful notes or task"`).
-5. **Push** to your fork (`git push origin feature-branch`).
-6. Open a **Pull Request** and let's merge it!
+If you have useful notes, assignments, lab tasks, or corrections, you can contribute:
 
----
+1. Fork this repository.
+2. Clone your fork.
+3. Create a new branch.
+4. Add or improve academic resources.
+5. Commit and push your changes.
+6. Open a Pull Request.
 
 ## 📜 License
 
-This project is licensed under the **GNU General Public License**. See the [LICENSE](https://www.google.com/search?q=LICENSE) file for more details.
+Please refer to the repository's LICENSE file for licensing information.
+
+## 👨‍💻 Maintainer
+
+**Ghulam Mustafa Malik**
+
+BSCS Student at Sukkur IBA University
+
+- GitHub: [mustafa-malik11](https://github.com/mustafa-malik11)
+- LinkedIn: [Ghulam Mustafa Malik](https://www.linkedin.com/in/ghulam-mustafa-malik-2595a8399)
 
 ---
 
- **Star the repository** if you find this helpful, and feel free to reach out if you have any questions or suggestions. Let's learn together and grow forward! 🚀! 🚀
+⭐ If you find this repository useful, consider giving it a star.
+
+*Learning together, growing together!* 🚀
